@@ -1,1 +1,3 @@
 # sql-mangodb
+
+sql queries
